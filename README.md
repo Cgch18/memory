@@ -28,4 +28,4 @@ Add logic to check for card matches when two cards are flipped.
 ##### Tech stacks
     For tech stacks I will be mostly using HTML and some java with css.
 ##### Wire Frame 
-![wireframe]()
+![wireframe](memory-wireframe.png)
